@@ -1,0 +1,12 @@
+.idea/
+__pycache__/
+*.py[cod]
+
+# Hyperskill project metadata and bundled lesson content
+course-info.yaml
+course-remote-info.yaml
+**/lesson-info.yaml
+**/*-info.yaml
+**/task.html
+**/task/tests.py
+**/task/test/
